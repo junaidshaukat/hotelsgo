@@ -21,4 +21,4 @@ After successful build, your application structure should look like this:
     └── widgets                     - It contains all custom widget classes
 ```
 
-![Alt text](assets/screenshot-1.png)|![Alt text](assets/screenshot-2.png)
+![Alt text](assets/screenshot-1.png)|[Alt text](assets/screenshot-2.png)
